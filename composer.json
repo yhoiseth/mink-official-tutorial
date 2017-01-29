@@ -1,0 +1,11 @@
+{
+    "name": "yhoiseth/mink-official-tutorial",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yngve Høiseth",
+            "email": "yhoiseth@gmail.com"
+        }
+    ],
+    "require": {}
+}
